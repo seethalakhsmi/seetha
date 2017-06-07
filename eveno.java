@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class even
+public class eveno
 {
 public static void main(String args[])
 {
